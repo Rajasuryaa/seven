@@ -1,0 +1,7 @@
+Se7eN - Food Delivery App
+The Following order has been placed
+Hotel : Cockaraco
+Food : Pepper Fry
+Price : 100Rs
+Total : 100Rs
+Thanks For Ordering! See you Again
